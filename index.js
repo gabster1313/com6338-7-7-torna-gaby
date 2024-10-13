@@ -7,17 +7,17 @@ var questionsArr = [
     {
         question: 'What was the original name of Halloween?',
         answer: 'Samhain',
-        options: ['Samhain', 'All Hallows Day', 'Fright Night', 'Walpurgis']
+        options: ['Samhain', 'All Hallows Day', 'Fright Night', 'Spooky Night']
     },
     {
         question: 'What classic horror movie features a serial killer named Michael Myers?',
         answer: 'Halloween',
-        options: ['Halloween', 'Friday the 13th', 'Scream', 'The Exorcist']
+        options: ['Halloween', 'Friday the 13th', 'Scream', 'Terrifier']
     },
     {
         question: 'What is the most popular candy sold in the U.S. during Halloween?',
         answer: 'Reese’s Peanut Butter Cups',
-        options: ['Skittles', 'Reese’s Peanut Butter Cups', 'Snickers', 'Candy Corn']
+        options: ['Hersheys', 'Reese’s Peanut Butter Cups', 'Snickers', 'Candy Corn']
     },
     {
         question: 'What creature is said to be able to transform into a bat, wolf, or mist?',
